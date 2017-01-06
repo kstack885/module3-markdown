@@ -8,4 +8,9 @@ In the space below, provide some information about a terminal command you've lea
 
 Note that you can preview this Markdown in Atom to make sure it works correctly. See `complete` branch for an example.
 
----
+# CD (Change Directory)
+``` cd desktop
+```
+ - changes Directory
+ - can go up/down through parent directories
+ - can use ".." to refer to parent directories
