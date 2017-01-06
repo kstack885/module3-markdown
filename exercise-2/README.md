@@ -5,6 +5,6 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 | **Course Num** | _Course Title_ | Instructor Name|
 | --- | --- | --- |
-| 201 | _Informatics_ | Ross |
-| 210 | _Psychology_ | Mcnicols |
-| 100 | _Envir_ | Wheat
+| **201** | _Informatics_ | Ross |
+| **210** | _Psychology_ | Mcnicols |
+| **100** | _Envir_ | Wheat
